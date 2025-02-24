@@ -24,7 +24,7 @@ This project is a **Machine Learning model** built using Python to detect fraudu
 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
 
 ## 📌 Author  
-[HashanPavi]  
+HashanPavi
 
 ---
 
